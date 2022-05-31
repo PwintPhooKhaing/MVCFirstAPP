@@ -9,7 +9,7 @@ namespace MVCfirstAPP.Controllers
     public class HomeController : Controller
     {
         // GET: Home
-        public ActionResult Index()
+        public ActionResult Index()  //test
         {
             return View();
         }
